@@ -1,1 +1,1 @@
-# JStest
+# js-instructor-examples
